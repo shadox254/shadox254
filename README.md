@@ -1,0 +1,16 @@
+# Hi !
+Student at 42. Here are my projects in chronological order :
+
+---
+
+## 42 Common Core Projects
+
+### ⚪ Circle 0
+* **[Libft](https://github.com/shadox254/libft)** - My own C standard library.
+
+### 🟢 Circle 1
+* **[get_next_line](https://github.com/shadox254/get_next_line)** - Reading a line from a file descriptor.
+* **[ft_printf](https://github.com/shadox254/ft_printf)** - Recoding the standard printf function.
+
+### 🔵 Circle 2
+* **[Push_swap](https://github.com/shadox254/push_swap)** - Optimized sorting algorithm using two stacks.
