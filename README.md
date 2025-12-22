@@ -14,3 +14,4 @@ Student at 42. Here are my projects in chronological order :
 
 ### 🔵 Circle 2
 * **[Push_swap](https://github.com/shadox254/push_swap)** - Optimized sorting algorithm using two stacks.
+* **[Module_Python](https://github.com/shadox254/Module-Python)** - Implementation of core Python concepts.
