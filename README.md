@@ -10,7 +10,7 @@ Student at 42. Here are my projects in chronological order :
 
 ### 🟢 Circle 1
 * **[get_next_line](https://github.com/shadox254/get_next_line)** - Reading a line from a file descriptor.
-* **[Born2beroot](No link, it's just a VM.)** - Creating our first VM with Debian.
+* **[Born2beroot](https://www.google.com/search?q=rickroll+other+link&oq=rickroll+other+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCggCEAAYExgWGB4yCggDEAAYExgWGB4yCggEEAAYExgWGB4yBwgFEAAY7wUyBwgGEAAY7wXSAQg1NDE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:36b13461,vid:xvFZjo5PgG0,st:0)(No link, it's just a VM.)** - Creating our first VM with Debian.
 * **[ft_printf](https://github.com/shadox254/ft_printf)** - Recoding the standard printf function.
 
 ### 🔵 Circle 2
