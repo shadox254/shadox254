@@ -16,7 +16,7 @@ Student at 42. Here are my projects in chronological order :
 ### 🟢 Circle 2
 * **[Push_swap](https://github.com/shadox254/push_swap)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Optimized sorting algorithm using two stacks.
 * **[Module_Python](https://github.com/shadox254/Module-Python)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Implementation of core Python concepts.
-* **[A_Maze_ing](https://github.com/Overtekk/A_Maze_ing)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> **with [Overtekk | roandrie](https://github.com/Overtekk)** - Create our own maze.
+* **[A_Maze_ing](https://github.com/Overtekk/A_Maze_ing)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle">  with **[Overtekk | roandrie](https://github.com/Overtekk)** - Create our own maze.
 
 ### 🟡 Circle 3
 * **[Codexion](https://github.com/shadox254/Codexion)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Concurrent simulation of shared resource management.
