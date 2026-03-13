@@ -23,3 +23,7 @@ Student at 42. Here are my projects in chronological order :
 
 ### 📦 Other projects
 * **[My_header](https://github.com/shadox254/Header)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Ts_logo.png" width="15" height="15" valign="middle"> - My own header.
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadox254&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="300" />
+</p>
