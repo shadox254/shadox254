@@ -20,6 +20,7 @@ Student at 42. Here are my projects in chronological order :
 
 ### 🟡 Circle 3
 * **[Codexion](https://github.com/shadox254/Codexion)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Concurrent simulation of shared resource management.
+* **[Call-Me_Maybe](github.com/shadox254/Call-Me-Maybe)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a valid JSON file using a LLM.
 
 ### 📦 Other projects
 
