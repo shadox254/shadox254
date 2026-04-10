@@ -23,7 +23,7 @@ Student at 42. Here are my projects in chronological order :
 * **[Call-Me_Maybe](https://github.com/shadox254/Call-Me-Maybe)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a valid JSON file using a LLM.
 
 ### 📦 Other projects
-* **[yes](https://github.com/shadox254/game-jam--Place_Holder)
+* **[Haute-Daugue - The Game](https://github.com/shadox254/game-jam--Place_Holder)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/gdscript_logo.png" width="15" height="15" valign="middle"> - First Game Jam.
 
 
 <p align="right">
