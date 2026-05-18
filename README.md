@@ -21,6 +21,7 @@ Student at 42. Here are my projects in chronological order :
 ### 🟡 Circle 3
 * **[Codexion](https://github.com/shadox254/Codexion)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Concurrent simulation of shared resource management.
 * **[Call-Me_Maybe](https://github.com/shadox254/Call-Me-Maybe)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a valid JSON file using a LLM.
+* **[Fly-in](https://github.com/shadox254/Fly-in/tree/main)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - 
 
 ### 📦 Other projects
 * **[Haute-Daugue - The Game](https://github.com/shadox254/game-jam--Place_Holder)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/gdscript_logo.png" width="15" height="15" valign="middle"> - First Game Jam.
