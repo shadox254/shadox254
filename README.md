@@ -1,5 +1,5 @@
-# Hi !
-Student at 42. Here are my projects in chronological order :
+# Hi, I'm shadox254 !
+Student at 42 Le Havre. Here are my projects in chronological order :
 
 ---
 
