@@ -5,30 +5,30 @@ Student at 42 Le Havre. Here are my projects in chronological order :
 
 ## 42 Common Core Projects
 
-### 🟣 Circle 0
+### ⚫️ Circle 0
 * **[Libft](https://github.com/shadox254/libft)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - My own C standard library.
 
-### 🔵 Circle 1
+### 🟣 Circle 1
 * **[Get_next_line](https://github.com/shadox254/get_next_line)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Reading a line from a file descriptor.
 * **Born2beroot** (no link) - Creating our first VM with Debian.
 * **[Ft_printf](https://github.com/shadox254/ft_printf)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Recoding the standard printf function.
 
-### 🟢 Circle 2
+### 🔵 Circle 2
 * **[Push_swap](https://github.com/shadox254/push_swap)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Optimized sorting algorithm using two stacks.
 * **[Module_Python](https://github.com/shadox254/Module-Python)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Implementation of core Python concepts.
 * **[A_Maze_ing](https://github.com/Overtekk/A_Maze_ing)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle">  with **[Overtekk | roandrie](https://github.com/Overtekk)** - Create our own maze.
 
-### 🟡 Circle 3
+### 🟢 Circle 3
 * **[Codexion](https://github.com/shadox254/Codexion)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Concurrent simulation of shared resource management.
 * **[Call-Me_Maybe](https://github.com/shadox254/Call-Me-Maybe)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a valid JSON file using a LLM.
 * **[Fly-in](https://github.com/shadox254/Fly-in/tree/main)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a drone management system
 
-### 🟠 Circle 4
+### 🟡 Circle 4
 * **[pac-man](https://github.com/alizealebaron/pac_man)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> with **[Alizealebaron | Alebaron](https://github.com/alizealebaron)** - Recreate a game like Pac-Man
 * **[RAG against the machine](https://github.com/shadox254/RAG-against-the-machine)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a RAG pipeline using the vLLM repo.
 * **[NetPractice](https://github.com/shadox254/NetPractice)** - Network configuration exercises.
 
-### 🔴 Circle 5
+### 🟠 Circle 5
 
 ### 📦 Other projects
 * **[Haute-Daugue - The Game](https://github.com/shadox254/game-jam--Place_Holder)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/gdscript_logo.png" width="15" height="15" valign="middle"> - First Game Jam.
