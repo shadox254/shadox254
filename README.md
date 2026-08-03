@@ -26,7 +26,7 @@ Student at 42. Here are my projects in chronological order :
 ### 🟠 Circle 4
 * **[pac-man](https://github.com/alizealebaron/pac_man)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> with **[Alizealebaron | Alebaron](https://github.com/alizealebaron)** - Recreate a game like Pac-Man
 * **[RAG against the machine](https://github.com/shadox254/RAG-against-the-machine)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a RAG pipeline using the vLLM repo.
-* **[NetPractice](https://github.com/shadox254/NetPractice)** - (placeholder).
+* **[NetPractice](https://github.com/shadox254/NetPractice)** - Network configuration exercises.
 
 ### 🔴 Circle 5
 
