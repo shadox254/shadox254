@@ -1,39 +1,34 @@
 # Hi, I'm shadox254 !
-Student at 42 Le Havre. Here are my projects in chronological order :
 
----
+<p align="center">
+<img width="736" height="414" alt="Ho-oh pixel art" src="https://github.com/shadox254/shadox254/blob/main/asset/ho-oh_pixel_art.jpg" />
+</p>
 
-## 42 Common Core Projects
+## About me
+I'm a student at 42 Le Havre. I enjoy object-oriented programming, especially Python. In my free time, I try to create cool and fun things.
 
-### ⚫️ Circle 0
-* **[Libft](https://github.com/shadox254/libft)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - My own C standard library.
+## My Skills
 
-### 🟣 Circle 1
-* **[Get_next_line](https://github.com/shadox254/get_next_line)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Reading a line from a file descriptor.
-* **Born2beroot** (no link) - Creating our first VM with Debian.
-* **[Ft_printf](https://github.com/shadox254/ft_printf)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Recoding the standard printf function.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,go,godot,bash,git,linux,vscode&theme=dark"/>
+  </a>
+</p>
 
-### 🔵 Circle 2
-* **[Push_swap](https://github.com/shadox254/push_swap)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Optimized sorting algorithm using two stacks.
-* **[Module_Python](https://github.com/shadox254/Module-Python)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Implementation of core Python concepts.
-* **[A_Maze_ing](https://github.com/Overtekk/A_Maze_ing)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle">  with **[Overtekk | roandrie](https://github.com/Overtekk)** - Create our own maze.
+## My Stats
 
-### 🟢 Circle 3
-* **[Codexion](https://github.com/shadox254/Codexion)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/C_logo.png" width="15" height="15" valign="middle"> - Concurrent simulation of shared resource management.
-* **[Call-Me_Maybe](https://github.com/shadox254/Call-Me-Maybe)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a valid JSON file using a LLM.
-* **[Fly-in](https://github.com/shadox254/Fly-in/tree/main)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a drone management system
+<p align="center">
+  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=shadox254&layout=compact&theme=neon&hide_border=true"  alt="languages stats" />
+  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=shadox254&show_icons=true&theme=neon&hide_border=true" alt="git stats" />
+</p>
 
-### 🟡 Circle 4
-* **[pac-man](https://github.com/alizealebaron/pac_man)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> with **[Alizealebaron | Alebaron](https://github.com/alizealebaron)** - Recreate a game like Pac-Man
-* **[RAG against the machine](https://github.com/shadox254/RAG-against-the-machine)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/Py_logo.png" width="15" height="15" valign="middle"> - Create a RAG pipeline using the vLLM repo.
-* **[NetPractice](https://github.com/shadox254/NetPractice)** - Network configuration exercises.
+## Contact me
 
-### 🟠 Circle 5
-
-### 📦 Other projects
-* **[Haute-Daugue - The Game](https://github.com/shadox254/game-jam--Place_Holder)** <img src="https://github.com/shadox254/shadox254/blob/main/asset/gdscript_logo.png" width="15" height="15" valign="middle"> - First Game Jam.
-
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadox254&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="300" />
+<p align="center">
+  <a href="mailto:rruiz@student.42lehavre.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/r%C3%A9my-ruiz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
