@@ -34,3 +34,7 @@ I'm a student at 42 Le Havre. I enjoy object-oriented programming, especially Py
   <br>
   <img src="https://komarev.com/ghpvc/?username=shadox254&label=Vues%20du%20profil&color=36454F&style=flat" alt="Views" />
 </p>
+
+<p align="center">
+<img width="736" height="414" alt="Ho-oh pixel art" src="https://github.com/shadox254/shadox254/blob/main/asset/lugia_pixel_art_rotated.jpg" />
+</p>
