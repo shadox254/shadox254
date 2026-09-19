@@ -31,4 +31,6 @@ I'm a student at 42 Le Havre. I enjoy object-oriented programming, especially Py
   <a href="https://www.linkedin.com/in/r%C3%A9my-ruiz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=shadox254&label=Vues%20du%20profil&color=36454F&style=flat" alt="Views" />
 </p>
