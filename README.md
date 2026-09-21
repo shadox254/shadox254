@@ -18,8 +18,8 @@ I'm a student at 42 Le Havre. I enjoy object-oriented programming, especially Py
 ## My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=shadox254&layout=compact&theme=neon&hide_border=true"  alt="languages stats" />
-  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=shadox254&show_icons=true&theme=neon&hide_border=true" alt="git stats" />
+  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api/top-langs/?username=shadox254&layout=compact&theme=neon&hide_border=true&v=1" alt="languages stats" />
+  <img src="https://github-readme-stats-ten-pi-74.vercel.app/api?username=shadox254&show_icons=true&theme=neon&hide_border=true&v=1" alt="git stats" />
 </p>
 
 ## Contact me
